@@ -17,4 +17,5 @@ I’m particularly interested in building reliable, scalable features and gradua
 
 📫 Get in Touch
 - Email: lingojakshitha@gmail.com
-- LinkedIn: linkedin.com/in/akshithalingoji
+- LinkedIn: https://linkedin.com/in/akshithalingoji
+
