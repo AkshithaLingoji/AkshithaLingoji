@@ -10,9 +10,6 @@ I’m particularly interested in building reliable, scalable features and gradua
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Node.js (basics), APIs
 - Tools: Git, GitHub
-
-📌 Projects
-- **Country Finder** – A JavaScript application using public APIs to fetch and display country details  
   
 
 📫 Get in Touch
